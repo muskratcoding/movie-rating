@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/devcontainers/go:1-1.24-bookworm
+FROM mcr.microsoft.com/devcontainers/go:2-1.27-bookworm
 
 
 # [Optional] Uncomment this section to install additional OS packages.
